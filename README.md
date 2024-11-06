@@ -20,7 +20,7 @@
 
 
 <!--Intro start-->
-- 🔭 Sou Estudante de progrmação na faculdade FIAP
+- 🔭 Sou Estudante de programação na faculdade FIAP
 
 - 🌱 Constantemente aprendendo com projetos reais 
 
