@@ -11,7 +11,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Dificuldade faz parte da programação</h2></summary>
+    <summary><h2 style="display: inline-block">Ponte entre negócio e tecnologia</h2></summary>
   </ul>
 </div>
 
@@ -20,7 +20,7 @@
 - 💼 Analista de Projetos na **Orbitus Tecnologia**, atuando como PJ desde março de 2026
 - 🔭 Trabalho traduzindo requisitos de clientes corporativos em tickets técnicos, conduzindo reuniões, reportando bugs e desenhando fluxos de IA
 - ☁️ Atuo entre projeto, backend e integrações — com foco em AWS, automação e fluxos conversacionais via WhatsApp Business API
-- 🎓 Cursando Engenharia de Software na FIAP (formatura em 2026) — anteriormente conclui o curso de ADS, também na FIAP
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS) pela FIAP
 - 🏆 Time vice-campeão em competição de produtos de IA na FIAP (12 equipes) com o projeto "Pé na Estrada"
 - 🍕 Gerencio parte da operação e folha de pagamento de uma pizzaria da família, onde também desenvolvo um sistema próprio de PDV/KDS
 - 📝 Aqui está o meu linkedin: https://www.linkedin.com/in/vinicius-de-oliveira-coutinho/ — Fique à vontade para me chamar
